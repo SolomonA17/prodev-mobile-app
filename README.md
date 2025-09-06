@@ -1,33 +1,34 @@
-# Welcome to your Expo app 👋
+### Your Expo Project Awaits!
 
-This is an [Expo](https://expo.dev) project created with `create-expo-app`.
+This is an [Expo](https://expo.dev) project, created with `create-expo-app`.
 
 ---
 
-## Get Started
+### Getting Started
 
 1.  **Install dependencies**
-    Run this command in your terminal to install the necessary packages for your project:
+    To get started, open your terminal and install all the necessary packages for your project:
     ```bash
     npm install
     ```
 2.  **Start the app**
-    Once the dependencies are installed, start the development server with the following command:
+    Once the installation is complete, start the development server with this command:
     ```bash
     npx expo start
     ```
-    You'll see a list of options to open the app:
+    This will give you several options for viewing your app:
 
-    * **Development build**: A custom app that includes the native dependencies you've installed.
-    * **Android emulator** / **iOS simulator**: Virtual devices for testing your app on Android and iOS.
-    * **Expo Go**: A limited sandbox for trying out app development with Expo.
+    * **Development Build**: A custom app that includes the dependencies you've installed, great for testing native code.
+    * **Android Emulator / iOS Simulator**: Virtual devices for testing your app on Android and iOS without needing a physical phone.
+    * **Expo Go**: A limited sandbox you can use to quickly test your project on your phone.
 
-    You can begin developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction), so the file structure directly determines your app's navigation.
+    You can start building your app by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction), where your file structure directly determines your app's navigation.
 
 ---
 
-## Get a Fresh Project
+### Starting Fresh
 
-If you want to start with a clean slate, run the following command:
+If you're ready to clear out the example code and start from scratch, run the following command:
+
 ```bash
 npm run reset-project
